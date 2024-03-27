@@ -1,4 +1,6 @@
-# e2e-banking-app
+[![Build, deploy and docker build frontend](https://github.com/ADORSYS-GIS/e2e-banking-app/actions/workflows/build-deploy-and-docker-build.yml/badge.svg)](https://github.com/ADORSYS-GIS/e2e-banking-app/actions/workflows/build-deploy-and-docker-build.yml) [![Build Translator](https://github.com/ADORSYS-GIS/e2e-banking-app/actions/workflows/build-translator.yml/badge.svg)](https://github.com/ADORSYS-GIS/e2e-banking-app/actions/workflows/build-translator.yml) [![Build Backend](https://github.com/ADORSYS-GIS/e2e-banking-app/actions/workflows/build-service.yml/badge.svg)](https://github.com/ADORSYS-GIS/e2e-banking-app/actions/workflows/build-service.yml)
+
+# E2E Banking App
 Welcome to the e2e-banking-app project! This repository contains the code for the end-to-end banking application.
 
 ## Prerequisites
@@ -7,8 +9,8 @@ Before getting started, make sure you have the following tools installed:
 
 - [nvm (Node Version Manager)](https://github.com/nvm-sh/nvm): To manage Node.js versions.
 - [Node.js](https://nodejs.org/): Javascript runtime environment.
-- [npm](https://www.npmjs.com/): Package manager for Node.js.
-- [sdkman](https://sdkman.io/): Software Development Kit Manager.
+- - [npm](https://www.npmjs.com/): Package manager for Node.js.
+- - [sdkman](https://sdkman.io/): Software Development Kit Manager.
 - [Java](https://www.java.com/): Programming Language and runtime environment.
 - [Maven](https://maven.apache.org/): Build automation and dependency management tool.
 - [cargo](https://doc.rust-lang.org/cargo/): Package manager for Rust.
